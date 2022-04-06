@@ -1,0 +1,25 @@
+{
+  "name": "soundcloud-clone",
+  "version": "1.0.0",
+  "description": "it will be, sometime in the far away future, a working soundcloud clone, pulling music straight from the soundcloud api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00nx6/soundcloud-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00nx6/soundcloud-clone/issues"
+  },
+  "homepage": "https://github.com/00nx6/soundcloud-clone#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
+  }
+}
